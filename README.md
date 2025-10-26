@@ -55,7 +55,7 @@ By using object-fit: cover; and flexible widths, the slider adapts well to diffe
 🚀 Live Demo
 
 🔗 View the project live here:
-👉 
+👉https://lisi-11.github.io/lisi-dynamic-image/ 
 
 ---
 
